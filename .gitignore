@@ -1,0 +1,16 @@
+# Environment variables & secrets
+.env
+
+# Virtual environment / Conda
+venv/
+env/
+slang_env/
+
+# Python cache & temp files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS specific files
+.DS_Store
+Thumbs.db
